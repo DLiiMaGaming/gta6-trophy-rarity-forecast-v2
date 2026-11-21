@@ -4,7 +4,11 @@ Forecasts each Grand Theft Auto VI (PS5) trophy's earn rate on Exophase at
 2026-11-26T00:00:00Z, for the make.fun competition
 `gta6-trophy-rarity-forecast-01`.
 
-![make.fun competition](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/DLiiMaGaming/gta6-trophy-rarity-forecast-v2/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/DLiiMaGaming/gta6-trophy-rarity-forecast-v2/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+
+Entry for the [make.fun bounty gta6-trophy-rarity-forecast-01](https://make.fun/bounty/gta6-trophy-rarity-forecast-01) — forecast every GTA VI (PS5) trophy's Exophase earn rate at 2026-11-26T00:00:00Z.
 
 `main.py` is the entrypoint: `python3 main.py` reads one case file (`<id>.in`)
 from `MAKEFUN_INPUT_DIR` (default `/input`) and writes `<id>.out` to
